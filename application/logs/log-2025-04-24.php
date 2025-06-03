@@ -1200,3 +1200,451 @@ INFO - 2025-04-24 01:31:35 --> File loaded: C:\xampp\htdocs\loginform_codeignite
 INFO - 2025-04-24 01:31:35 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/footer.php
 INFO - 2025-04-24 01:31:35 --> Final output sent to browser
 DEBUG - 2025-04-24 01:31:35 --> Total execution time: 0.0250
+INFO - 2025-04-24 07:52:28 --> Config Class Initialized
+INFO - 2025-04-24 07:52:28 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:52:28 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:52:28 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:52:28 --> URI Class Initialized
+INFO - 2025-04-24 07:52:28 --> Router Class Initialized
+INFO - 2025-04-24 07:52:28 --> Output Class Initialized
+INFO - 2025-04-24 07:52:28 --> Security Class Initialized
+DEBUG - 2025-04-24 07:52:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:52:28 --> Input Class Initialized
+INFO - 2025-04-24 07:52:28 --> Language Class Initialized
+INFO - 2025-04-24 07:52:28 --> Loader Class Initialized
+INFO - 2025-04-24 07:52:29 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:52:29 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:52:29 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:52:29 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:29 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:52:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:52:29 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:52:29 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:52:29 --> Controller Class Initialized
+DEBUG - 2025-04-24 07:52:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-24 07:52:29 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2025-04-24 07:52:29 --> Config file loaded: C:\xampp\htdocs\loginform_codeigniter\application\config/aauth.php
+INFO - 2025-04-24 07:52:29 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:29 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/header.php
+INFO - 2025-04-24 07:52:29 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\Auth/login.php
+INFO - 2025-04-24 07:52:29 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/footer.php
+INFO - 2025-04-24 07:52:29 --> Final output sent to browser
+DEBUG - 2025-04-24 07:52:29 --> Total execution time: 0.3556
+INFO - 2025-04-24 07:52:31 --> Config Class Initialized
+INFO - 2025-04-24 07:52:31 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:52:31 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:52:31 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:52:31 --> URI Class Initialized
+INFO - 2025-04-24 07:52:31 --> Router Class Initialized
+INFO - 2025-04-24 07:52:31 --> Output Class Initialized
+INFO - 2025-04-24 07:52:31 --> Security Class Initialized
+DEBUG - 2025-04-24 07:52:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:52:31 --> Input Class Initialized
+INFO - 2025-04-24 07:52:31 --> Language Class Initialized
+INFO - 2025-04-24 07:52:31 --> Loader Class Initialized
+INFO - 2025-04-24 07:52:31 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:52:31 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:52:31 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:52:31 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:31 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:52:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:52:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:52:31 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:52:31 --> Controller Class Initialized
+DEBUG - 2025-04-24 07:52:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-24 07:52:31 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2025-04-24 07:52:31 --> Config file loaded: C:\xampp\htdocs\loginform_codeigniter\application\config/aauth.php
+INFO - 2025-04-24 07:52:31 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:31 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2025-04-24 07:52:31 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/header.php
+INFO - 2025-04-24 07:52:31 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\Auth/login.php
+INFO - 2025-04-24 07:52:31 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/footer.php
+INFO - 2025-04-24 07:52:31 --> Final output sent to browser
+DEBUG - 2025-04-24 07:52:31 --> Total execution time: 0.0962
+INFO - 2025-04-24 07:52:32 --> Config Class Initialized
+INFO - 2025-04-24 07:52:32 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:52:32 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:52:32 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:52:32 --> URI Class Initialized
+INFO - 2025-04-24 07:52:32 --> Router Class Initialized
+INFO - 2025-04-24 07:52:32 --> Output Class Initialized
+INFO - 2025-04-24 07:52:32 --> Security Class Initialized
+DEBUG - 2025-04-24 07:52:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:52:32 --> Input Class Initialized
+INFO - 2025-04-24 07:52:32 --> Language Class Initialized
+INFO - 2025-04-24 07:52:32 --> Loader Class Initialized
+INFO - 2025-04-24 07:52:32 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:52:32 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:52:32 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:52:32 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:32 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:52:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:52:32 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:52:32 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:52:32 --> Controller Class Initialized
+DEBUG - 2025-04-24 07:52:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-24 07:52:32 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2025-04-24 07:52:32 --> Config file loaded: C:\xampp\htdocs\loginform_codeigniter\application\config/aauth.php
+INFO - 2025-04-24 07:52:32 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:32 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2025-04-24 07:52:32 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/header.php
+INFO - 2025-04-24 07:52:32 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\Auth/login.php
+INFO - 2025-04-24 07:52:32 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/footer.php
+INFO - 2025-04-24 07:52:32 --> Final output sent to browser
+DEBUG - 2025-04-24 07:52:32 --> Total execution time: 0.0781
+INFO - 2025-04-24 07:52:39 --> Config Class Initialized
+INFO - 2025-04-24 07:52:39 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:52:39 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:52:39 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:52:39 --> URI Class Initialized
+INFO - 2025-04-24 07:52:39 --> Router Class Initialized
+INFO - 2025-04-24 07:52:39 --> Output Class Initialized
+INFO - 2025-04-24 07:52:39 --> Security Class Initialized
+DEBUG - 2025-04-24 07:52:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:52:39 --> Input Class Initialized
+INFO - 2025-04-24 07:52:39 --> Language Class Initialized
+INFO - 2025-04-24 07:52:39 --> Loader Class Initialized
+INFO - 2025-04-24 07:52:39 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:52:39 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:52:39 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:52:39 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:39 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:52:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:52:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:52:39 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:52:39 --> Controller Class Initialized
+DEBUG - 2025-04-24 07:52:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-24 07:52:39 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2025-04-24 07:52:39 --> Config file loaded: C:\xampp\htdocs\loginform_codeigniter\application\config/aauth.php
+INFO - 2025-04-24 07:52:39 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:39 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2025-04-24 07:52:39 --> Final output sent to browser
+DEBUG - 2025-04-24 07:52:39 --> Total execution time: 0.0773
+INFO - 2025-04-24 07:52:39 --> Config Class Initialized
+INFO - 2025-04-24 07:52:39 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:52:39 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:52:39 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:52:39 --> URI Class Initialized
+INFO - 2025-04-24 07:52:39 --> Router Class Initialized
+INFO - 2025-04-24 07:52:39 --> Output Class Initialized
+INFO - 2025-04-24 07:52:39 --> Security Class Initialized
+DEBUG - 2025-04-24 07:52:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:52:39 --> Input Class Initialized
+INFO - 2025-04-24 07:52:39 --> Language Class Initialized
+INFO - 2025-04-24 07:52:39 --> Loader Class Initialized
+INFO - 2025-04-24 07:52:39 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:52:39 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:52:39 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:52:39 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:39 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:52:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:52:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:52:39 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:52:39 --> Controller Class Initialized
+INFO - 2025-04-24 07:52:39 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/header.php
+INFO - 2025-04-24 07:52:39 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\dashboard.php
+INFO - 2025-04-24 07:52:39 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/footer.php
+INFO - 2025-04-24 07:52:39 --> Final output sent to browser
+DEBUG - 2025-04-24 07:52:39 --> Total execution time: 0.0249
+INFO - 2025-04-24 07:52:41 --> Config Class Initialized
+INFO - 2025-04-24 07:52:41 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:52:41 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:52:41 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:52:41 --> URI Class Initialized
+INFO - 2025-04-24 07:52:41 --> Router Class Initialized
+INFO - 2025-04-24 07:52:41 --> Output Class Initialized
+INFO - 2025-04-24 07:52:41 --> Security Class Initialized
+DEBUG - 2025-04-24 07:52:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:52:41 --> Input Class Initialized
+INFO - 2025-04-24 07:52:41 --> Language Class Initialized
+INFO - 2025-04-24 07:52:41 --> Loader Class Initialized
+INFO - 2025-04-24 07:52:41 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:52:41 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:52:41 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:52:41 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:41 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:52:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:52:41 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:52:41 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:52:41 --> Controller Class Initialized
+DEBUG - 2025-04-24 07:52:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-24 07:52:41 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2025-04-24 07:52:41 --> Config file loaded: C:\xampp\htdocs\loginform_codeigniter\application\config/aauth.php
+INFO - 2025-04-24 07:52:41 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:41 --> Config Class Initialized
+INFO - 2025-04-24 07:52:41 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:52:41 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:52:41 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:52:41 --> URI Class Initialized
+DEBUG - 2025-04-24 07:52:41 --> No URI present. Default controller set.
+INFO - 2025-04-24 07:52:41 --> Router Class Initialized
+INFO - 2025-04-24 07:52:41 --> Output Class Initialized
+INFO - 2025-04-24 07:52:41 --> Security Class Initialized
+DEBUG - 2025-04-24 07:52:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:52:41 --> Input Class Initialized
+INFO - 2025-04-24 07:52:41 --> Language Class Initialized
+INFO - 2025-04-24 07:52:41 --> Loader Class Initialized
+INFO - 2025-04-24 07:52:41 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:52:41 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:52:41 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:52:41 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:41 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:52:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:52:41 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:52:41 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:52:41 --> Controller Class Initialized
+INFO - 2025-04-24 07:52:41 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/header.php
+INFO - 2025-04-24 07:52:41 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\Auth/index.php
+INFO - 2025-04-24 07:52:41 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/footer.php
+INFO - 2025-04-24 07:52:41 --> Final output sent to browser
+DEBUG - 2025-04-24 07:52:41 --> Total execution time: 0.0262
+INFO - 2025-04-24 07:52:42 --> Config Class Initialized
+INFO - 2025-04-24 07:52:42 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:52:42 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:52:42 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:52:42 --> URI Class Initialized
+INFO - 2025-04-24 07:52:42 --> Router Class Initialized
+INFO - 2025-04-24 07:52:42 --> Output Class Initialized
+INFO - 2025-04-24 07:52:42 --> Security Class Initialized
+DEBUG - 2025-04-24 07:52:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:52:42 --> Input Class Initialized
+INFO - 2025-04-24 07:52:42 --> Language Class Initialized
+INFO - 2025-04-24 07:52:42 --> Loader Class Initialized
+INFO - 2025-04-24 07:52:42 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:52:42 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:52:42 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:52:42 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:42 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:52:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:52:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:52:42 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:52:42 --> Controller Class Initialized
+DEBUG - 2025-04-24 07:52:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-24 07:52:42 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2025-04-24 07:52:42 --> Config file loaded: C:\xampp\htdocs\loginform_codeigniter\application\config/aauth.php
+INFO - 2025-04-24 07:52:42 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:42 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/header.php
+INFO - 2025-04-24 07:52:42 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\Auth/register.php
+INFO - 2025-04-24 07:52:42 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/footer.php
+INFO - 2025-04-24 07:52:42 --> Final output sent to browser
+DEBUG - 2025-04-24 07:52:42 --> Total execution time: 0.0314
+INFO - 2025-04-24 07:52:51 --> Config Class Initialized
+INFO - 2025-04-24 07:52:51 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:52:51 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:52:51 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:52:51 --> URI Class Initialized
+DEBUG - 2025-04-24 07:52:51 --> No URI present. Default controller set.
+INFO - 2025-04-24 07:52:51 --> Router Class Initialized
+INFO - 2025-04-24 07:52:51 --> Output Class Initialized
+INFO - 2025-04-24 07:52:51 --> Security Class Initialized
+DEBUG - 2025-04-24 07:52:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:52:51 --> Input Class Initialized
+INFO - 2025-04-24 07:52:51 --> Language Class Initialized
+INFO - 2025-04-24 07:52:51 --> Loader Class Initialized
+INFO - 2025-04-24 07:52:51 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:52:51 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:52:51 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:52:51 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:51 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:52:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:52:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:52:51 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:52:51 --> Controller Class Initialized
+INFO - 2025-04-24 07:52:51 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/header.php
+INFO - 2025-04-24 07:52:51 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\Auth/index.php
+INFO - 2025-04-24 07:52:51 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/footer.php
+INFO - 2025-04-24 07:52:51 --> Final output sent to browser
+DEBUG - 2025-04-24 07:52:51 --> Total execution time: 0.0246
+INFO - 2025-04-24 07:52:52 --> Config Class Initialized
+INFO - 2025-04-24 07:52:52 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:52:52 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:52:52 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:52:52 --> URI Class Initialized
+INFO - 2025-04-24 07:52:52 --> Router Class Initialized
+INFO - 2025-04-24 07:52:52 --> Output Class Initialized
+INFO - 2025-04-24 07:52:52 --> Security Class Initialized
+DEBUG - 2025-04-24 07:52:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:52:52 --> Input Class Initialized
+INFO - 2025-04-24 07:52:52 --> Language Class Initialized
+INFO - 2025-04-24 07:52:52 --> Loader Class Initialized
+INFO - 2025-04-24 07:52:52 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:52:52 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:52:52 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:52:52 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:52 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:52:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:52:52 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:52:52 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:52:52 --> Controller Class Initialized
+DEBUG - 2025-04-24 07:52:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-24 07:52:52 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2025-04-24 07:52:52 --> Config file loaded: C:\xampp\htdocs\loginform_codeigniter\application\config/aauth.php
+INFO - 2025-04-24 07:52:52 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:52 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/header.php
+INFO - 2025-04-24 07:52:52 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\Auth/register.php
+INFO - 2025-04-24 07:52:52 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/footer.php
+INFO - 2025-04-24 07:52:52 --> Final output sent to browser
+DEBUG - 2025-04-24 07:52:52 --> Total execution time: 0.0311
+INFO - 2025-04-24 07:52:56 --> Config Class Initialized
+INFO - 2025-04-24 07:52:56 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:52:56 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:52:56 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:52:56 --> URI Class Initialized
+DEBUG - 2025-04-24 07:52:56 --> No URI present. Default controller set.
+INFO - 2025-04-24 07:52:56 --> Router Class Initialized
+INFO - 2025-04-24 07:52:56 --> Output Class Initialized
+INFO - 2025-04-24 07:52:56 --> Security Class Initialized
+DEBUG - 2025-04-24 07:52:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:52:56 --> Input Class Initialized
+INFO - 2025-04-24 07:52:56 --> Language Class Initialized
+INFO - 2025-04-24 07:52:56 --> Loader Class Initialized
+INFO - 2025-04-24 07:52:56 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:52:56 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:52:56 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:52:56 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:56 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:52:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:52:56 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:52:56 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:52:56 --> Controller Class Initialized
+INFO - 2025-04-24 07:52:56 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/header.php
+INFO - 2025-04-24 07:52:56 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\Auth/index.php
+INFO - 2025-04-24 07:52:56 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/footer.php
+INFO - 2025-04-24 07:52:56 --> Final output sent to browser
+DEBUG - 2025-04-24 07:52:56 --> Total execution time: 0.0245
+INFO - 2025-04-24 07:52:57 --> Config Class Initialized
+INFO - 2025-04-24 07:52:57 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:52:57 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:52:57 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:52:57 --> URI Class Initialized
+INFO - 2025-04-24 07:52:57 --> Router Class Initialized
+INFO - 2025-04-24 07:52:57 --> Output Class Initialized
+INFO - 2025-04-24 07:52:57 --> Security Class Initialized
+DEBUG - 2025-04-24 07:52:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:52:57 --> Input Class Initialized
+INFO - 2025-04-24 07:52:57 --> Language Class Initialized
+INFO - 2025-04-24 07:52:57 --> Loader Class Initialized
+INFO - 2025-04-24 07:52:57 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:52:57 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:52:57 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:52:57 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:57 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:52:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:52:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:52:57 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:52:57 --> Controller Class Initialized
+DEBUG - 2025-04-24 07:52:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-24 07:52:57 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2025-04-24 07:52:57 --> Config file loaded: C:\xampp\htdocs\loginform_codeigniter\application\config/aauth.php
+INFO - 2025-04-24 07:52:57 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:52:57 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/header.php
+INFO - 2025-04-24 07:52:57 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\Auth/login.php
+INFO - 2025-04-24 07:52:57 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/footer.php
+INFO - 2025-04-24 07:52:57 --> Final output sent to browser
+DEBUG - 2025-04-24 07:52:57 --> Total execution time: 0.0302
+INFO - 2025-04-24 07:53:08 --> Config Class Initialized
+INFO - 2025-04-24 07:53:08 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:53:08 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:53:08 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:53:08 --> URI Class Initialized
+INFO - 2025-04-24 07:53:08 --> Router Class Initialized
+INFO - 2025-04-24 07:53:08 --> Output Class Initialized
+INFO - 2025-04-24 07:53:08 --> Security Class Initialized
+DEBUG - 2025-04-24 07:53:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:53:08 --> Input Class Initialized
+INFO - 2025-04-24 07:53:08 --> Language Class Initialized
+INFO - 2025-04-24 07:53:08 --> Loader Class Initialized
+INFO - 2025-04-24 07:53:08 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:53:08 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:53:08 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:53:08 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:53:08 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:53:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:53:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:53:08 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:53:08 --> Controller Class Initialized
+DEBUG - 2025-04-24 07:53:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-24 07:53:08 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2025-04-24 07:53:08 --> Config file loaded: C:\xampp\htdocs\loginform_codeigniter\application\config/aauth.php
+INFO - 2025-04-24 07:53:08 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:53:08 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2025-04-24 07:53:08 --> Final output sent to browser
+DEBUG - 2025-04-24 07:53:08 --> Total execution time: 0.0783
+INFO - 2025-04-24 07:53:08 --> Config Class Initialized
+INFO - 2025-04-24 07:53:08 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:53:08 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:53:08 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:53:08 --> URI Class Initialized
+INFO - 2025-04-24 07:53:08 --> Router Class Initialized
+INFO - 2025-04-24 07:53:08 --> Output Class Initialized
+INFO - 2025-04-24 07:53:08 --> Security Class Initialized
+DEBUG - 2025-04-24 07:53:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:53:08 --> Input Class Initialized
+INFO - 2025-04-24 07:53:08 --> Language Class Initialized
+INFO - 2025-04-24 07:53:08 --> Loader Class Initialized
+INFO - 2025-04-24 07:53:08 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:53:08 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:53:08 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:53:08 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:53:08 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:53:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:53:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:53:08 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:53:08 --> Controller Class Initialized
+INFO - 2025-04-24 07:53:08 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/header.php
+INFO - 2025-04-24 07:53:08 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\dashboard.php
+INFO - 2025-04-24 07:53:08 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/footer.php
+INFO - 2025-04-24 07:53:08 --> Final output sent to browser
+DEBUG - 2025-04-24 07:53:08 --> Total execution time: 0.0252
+INFO - 2025-04-24 07:53:12 --> Config Class Initialized
+INFO - 2025-04-24 07:53:12 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:53:12 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:53:12 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:53:12 --> URI Class Initialized
+INFO - 2025-04-24 07:53:12 --> Router Class Initialized
+INFO - 2025-04-24 07:53:12 --> Output Class Initialized
+INFO - 2025-04-24 07:53:12 --> Security Class Initialized
+DEBUG - 2025-04-24 07:53:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:53:12 --> Input Class Initialized
+INFO - 2025-04-24 07:53:12 --> Language Class Initialized
+INFO - 2025-04-24 07:53:12 --> Loader Class Initialized
+INFO - 2025-04-24 07:53:12 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:53:12 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:53:12 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:53:12 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:53:12 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:53:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:53:12 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:53:12 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:53:12 --> Controller Class Initialized
+DEBUG - 2025-04-24 07:53:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-24 07:53:12 --> Language file loaded: language/english/aauth_lang.php
+DEBUG - 2025-04-24 07:53:12 --> Config file loaded: C:\xampp\htdocs\loginform_codeigniter\application\config/aauth.php
+INFO - 2025-04-24 07:53:12 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:53:12 --> Config Class Initialized
+INFO - 2025-04-24 07:53:12 --> Hooks Class Initialized
+DEBUG - 2025-04-24 07:53:12 --> UTF-8 Support Enabled
+INFO - 2025-04-24 07:53:12 --> Utf8 Class Initialized
+INFO - 2025-04-24 07:53:12 --> URI Class Initialized
+DEBUG - 2025-04-24 07:53:12 --> No URI present. Default controller set.
+INFO - 2025-04-24 07:53:12 --> Router Class Initialized
+INFO - 2025-04-24 07:53:12 --> Output Class Initialized
+INFO - 2025-04-24 07:53:12 --> Security Class Initialized
+DEBUG - 2025-04-24 07:53:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-24 07:53:12 --> Input Class Initialized
+INFO - 2025-04-24 07:53:12 --> Language Class Initialized
+INFO - 2025-04-24 07:53:12 --> Loader Class Initialized
+INFO - 2025-04-24 07:53:12 --> Helper loaded: url_helper
+INFO - 2025-04-24 07:53:12 --> Helper loaded: html_helper
+INFO - 2025-04-24 07:53:12 --> Helper loaded: form_helper
+INFO - 2025-04-24 07:53:12 --> Database Driver Class Initialized
+INFO - 2025-04-24 07:53:12 --> Form Validation Class Initialized
+DEBUG - 2025-04-24 07:53:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-24 07:53:12 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-24 07:53:12 --> Model "Auth_Model" initialized
+INFO - 2025-04-24 07:53:12 --> Controller Class Initialized
+INFO - 2025-04-24 07:53:12 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/header.php
+INFO - 2025-04-24 07:53:12 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\Auth/index.php
+INFO - 2025-04-24 07:53:12 --> File loaded: C:\xampp\htdocs\loginform_codeigniter\application\views\template/footer.php
+INFO - 2025-04-24 07:53:12 --> Final output sent to browser
+DEBUG - 2025-04-24 07:53:12 --> Total execution time: 0.0241

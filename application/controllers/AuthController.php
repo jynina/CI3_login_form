@@ -6,7 +6,6 @@ class AuthController extends CI_Controller
     {
 
         parent::__construct();
-        $this->load->library('Aauth');
     }
 
     public function display_register(){
@@ -74,14 +73,14 @@ class AuthController extends CI_Controller
             if (isset($validate))
             {
                 $validate = json_decode($validate, true);
-                $stored_hash = $validate['Password'];
+                $stored_hash = $validate['password'];
 
                 if (password_verify($password, $stored_hash))
                 {
-                    $this->session->set_userdata('id', $validate['User_id']);
-                    $this->session->set_userdata('first_name', $validate['First_name']);
-                    $this->session->set_userdata('last_name', $validate['Last_name']);
-    
+                    $this->session->set_userdata('id', $validate['id']);
+                    $this->session->set_userdata('first_name', $validate['first_name']);
+                    $this->session->set_userdata('last_name', $validate['last_name']);
+                    
                     header("location:" . base_url('dashboard'));
                 }
                 else

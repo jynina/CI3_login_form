@@ -62,3 +62,12 @@ $route['open_login'] = 'AuthController/display_login';
 $route['dashboard'] = 'DashboardController/index';
 
 $route['logout'] = 'AuthController/logout';
+
+$route['open_add_tasks'] = 'TaskController/display_add_form';
+$route['add_task'] = 'TaskController/add_task';
+$route['delete_task'] = 'TaskController/delete_task';
+$route['edit_task'] = 'TaskController/edit_task';
+$route['update_task'] = 'TaskController/update_task';
+$route['archive_task'] = 'TaskController/archive_task';
+$route['retrieve_task'] = 'TaskController/retrieve_task';
+$route['fetch_tasks'] = 'TaskController/fetch_tasks';

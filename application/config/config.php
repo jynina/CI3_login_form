@@ -39,6 +39,8 @@ $config['base_url'] .= preg_replace('@/+$@','',dirname($_SERVER['SCRIPT_NAME']))
 |
 */
 $config['index_page'] = 'index.php';
+//$config['profiler'] = TRUE;
+$config['profiler'] = FALSE; 
 
 /*
 |--------------------------------------------------------------------------
@@ -533,3 +535,5 @@ $config['rewrite_short_tags'] = FALSE;
 | Array:		array('10.0.1.200', '192.168.5.0/24')
 */
 $config['proxy_ips'] = '';
+
+
